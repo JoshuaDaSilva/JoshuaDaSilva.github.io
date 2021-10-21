@@ -1,0 +1,13 @@
+h1.center{
+  color:Red;
+  font-family:calibri;
+}
+*{
+  background-color:powderblue;
+  }
+img {
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding 5px;
+  width: 300px;
+}
